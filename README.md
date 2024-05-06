@@ -1,1 +1,2 @@
 Hello i am jeylan ABDO
+FRONTEND DEVELOPER
